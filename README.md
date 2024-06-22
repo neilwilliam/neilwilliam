@@ -1,5 +1,5 @@
 # Hi there, I'm Neil! 👋
-
+![Name]([https://link-to-your-gif.gif](https://github.com/neilwilliam/neilwilliam/blob/main/Neil-6-22-2024.gif))
 ![Profile Views](https://komarev.com/ghpvc/?username=neilwilliam&color=blue)
 
 ## About Me
@@ -23,8 +23,3 @@ I am a passionate Web and Game Dev.
 ## 📈 Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neilwilliam&layout=compact&theme=radical)
-
-## 📫 Connect with Me
-
-[![Twitter/X](https://img.shields.io/badge/X-000?&logo=X)](https://x.com/BingyGameStudio)
-[![Email](https://img.shields.io/badge/Email-000?&logo=Gmail)](mailto:neilnextlobo@gmail.com)
