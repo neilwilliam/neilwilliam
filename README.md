@@ -26,5 +26,5 @@ I am a passionate Web and Game Dev.
 
 ## 📫 Connect with Me
 
-[![Twitter/X](https://img.shields.io/badge/Twitter-000?&logo=Twitter)](https://x.com/BingyGameStudio)
+[![Twitter/X](https://img.shields.io/badge/X-000?&logo=X)](https://x.com/BingyGameStudio)
 [![Email](https://img.shields.io/badge/Email-000?&logo=Gmail)](mailto:neilnextlobo@gmail.com)
