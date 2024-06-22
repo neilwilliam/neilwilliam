@@ -1,5 +1,5 @@
 # Hi there, I'm Neil! 👋
-![Name]([https://github.com/neilwilliam/neilwilliam/blob/main/Neil-6-22-2024.gif])
+![Name](https://github.com/neilwilliam/neilwilliam/blob/main/Neil-6-22-2024.gif)
 ![Profile Views](https://komarev.com/ghpvc/?username=neilwilliam&color=blue)
 
 ## About Me
