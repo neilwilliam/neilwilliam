@@ -1,3 +1,19 @@
+<style>
+        body {
+            background: linear-gradient(to right, #FFD700, #FFA500);
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 2rem;
+        }
+        h1 {
+            color: white;
+            font-size: 2rem;
+        }
+        p {
+            color: #333;
+            font-size: 1.2rem;
+        }
+  </style>  
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 <h1>Hi there, I'm Neil!</h1>
 <br>
