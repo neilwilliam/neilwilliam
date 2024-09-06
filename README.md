@@ -1,9 +1,9 @@
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 <h1>Hi there, I'm Neil!</h1>
 <br>
-<img src="https://github.com/neilwilliam/neilwilliam/blob/main/Neil-6-22-2024.gif" width="auto" height="200" alt="Alt Text">
-
-![Profile Views](https://komarev.com/ghpvc/?username=neilwilliam&color=blue)
+<h2>Discord Server:</h2>
+<a target="_blank" href="https://discord.gg/VqafA4cRqj"><img src="https://dcbadge.limes.pink/api/server/VqafA4cRqj" alt="" /></a>
+<br>
 
 ## About Me
 
@@ -22,6 +22,8 @@ I am a passionate Web and Game Dev.
 ## 🏆 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=neilwilliam&show_icons=true&theme=radical)
+<br>
+![Profile Views](https://komarev.com/ghpvc/?username=neilwilliam&color=blue)
 
 ## 📈 Top Languages
 
