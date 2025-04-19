@@ -42,16 +42,6 @@ I'm a passionate **Web and Game Developer** with a love for building immersive e
 
 ---
 
-## 📈 GitHub Stats
-
-![Neil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=neilwilliam&show_icons=true&theme=radical)
-<br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neilwilliam&layout=compact&theme=radical)
-<br>
-![Profile Views](https://komarev.com/ghpvc/?username=neilwilliam&color=blue)
-
----
-
 ## ✨ Fun Facts
 
 - 💡 My best ideas usually come at 2AM
