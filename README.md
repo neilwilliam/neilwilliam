@@ -37,6 +37,8 @@ I'm a passionate **Web and Game Developer** with a love for building immersive e
 ## 🎮 Projects
 
 - **🎯 FPS Prototype in Roblox** – A custom shooter built with Lua and Roblox Studio.
+- **📄 Knowledge Base Site** – A custom knowledge base site built with HTML, CSS, JS and PHP.
+- **🎥 YouTube Studio Clone Site** – A YouTube Studio site built with HTML, CSS, and JS.
 
 > *More projects coming soon...*
 
