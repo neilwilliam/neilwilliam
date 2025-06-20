@@ -28,6 +28,8 @@ I'm a passionate **Web and Game Developer** with a love for building immersive e
 
 ### ⚙️ Backend & Tools
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![React.js](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?logo=firebase&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -43,8 +45,8 @@ I'm a passionate **Web and Game Developer** with a love for building immersive e
 ## 🎮 Projects
 
 - **🎯 FPS Prototype in Roblox** – A custom shooter built with Lua and Roblox Studio.
+- **🧑‍💻 AI Business Platform** – An AI platform built for small businesses built with ReactJS and NodeJS.
 - **📄 Knowledge Base Site** – A custom knowledge base site built with HTML, CSS, JS and PHP.
-- **🎥 YouTube Studio Clone Site** – A YouTube Studio site built with HTML, CSS, and JS.
 
 > *More projects coming soon...*
 
@@ -54,7 +56,6 @@ I'm a passionate **Web and Game Developer** with a love for building immersive e
 
 - 💡 My best ideas usually come at 2AM
 - 🎨 I love mixing design with logic – aesthetics and algorithms go hand in hand!
-- 🤓 I like science.
-- 🍛 I love Biryani!
+- 🤓 I like Science and Programming.
 
 ---
