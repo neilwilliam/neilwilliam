@@ -5,10 +5,10 @@
 </div>
 
 ---
-## My Websites
+## My Sites
 
 - **Neil's Sites - https://neilssites.web.app**
-
+- **Optivize AI - https://optivizeai.vercel.app**
 > *More sites coming soon...*
 
 ---
