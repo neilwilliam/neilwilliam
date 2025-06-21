@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/neilwilliam/neilwilliam/refs/heads/main/logomain.gif" alt="Neil Logo" width="500"/>
   <h1>Hi there, I'm Neil! 👋</h1>
-  <p><em>Web & Game Developer | Creative Coder | Curious Mind</em></p>
+  <p><em>Web & Game Developer</em></p>
 </div>
 
 ---
