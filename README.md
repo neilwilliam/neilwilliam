@@ -14,7 +14,7 @@
 ---
 ## 👨‍💻 About Me
 
-I'm a passionate **Web and Game Developer** with a love for building immersive experiences and clean, functional interfaces. Whether it’s a responsive website or a full-on game mechanic, I enjoy bringing ideas to life through code.
+As a dedicated **Web and Game Developer**, I am passionate about creating immersive experiences and user-friendly interfaces. Whether developing responsive websites or intricate game mechanics, I derive immense satisfaction from bringing innovative ideas to fruition through code.
 
 ---
 
@@ -26,6 +26,8 @@ I'm a passionate **Web and Game Developer** with a love for building immersive e
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
+
+
 ### ⚙️ Backend & Tools
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![React.js](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white)
@@ -33,6 +35,8 @@ I'm a passionate **Web and Game Developer** with a love for building immersive e
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+
 
 ### 🎮 Game Dev
 ![Unity](https://img.shields.io/badge/-Unity-000?style=flat-square&logo=unity&logoColor=white)
@@ -54,8 +58,8 @@ I'm a passionate **Web and Game Developer** with a love for building immersive e
 
 ## ✨ Fun Facts
 
-- 💡 My best ideas usually come at 2AM
 - 🎨 I love mixing design with logic – aesthetics and algorithms go hand in hand!
 - 🤓 I like Science and Programming.
+- 👨‍💻 I've been programming since 6 years old.
 
 ---
