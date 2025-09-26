@@ -27,6 +27,7 @@ As a passionate **Web and Game Developer**, I bridge the worlds of design and lo
 
 ### ⚙️ Backend & Tools  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![NextJS](https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
@@ -48,11 +49,4 @@ As a passionate **Web and Game Developer**, I bridge the worlds of design and lo
 | `🤖 AI Business Platform` | React + Node.js app for small business automation |
 | `📚 Knowledge Base Site` | Built with HTML, CSS, JS, and PHP |
 
----
-
-## ✨ Fun Facts
-
-- 🖌️ Design + Code = my favorite combo
-- 👶 Been coding since I was six
-- 🍛 Biryani is my favourite food.
 ---
