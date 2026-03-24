@@ -45,8 +45,6 @@ As a passionate **Web and Game Developer**, I bridge the worlds of design and lo
 
 | Project | Description |
 |--------|-------------|
-| `🎮 FPS Prototype` | A custom shooter built in Roblox Studio using Lua |
-| `🤖 AI Business Platform` | React + Node.js app for small business automation |
-| `📚 Knowledge Base Site` | Built with HTML, CSS, JS, and PHP |
+| `🤖 Optivize - AI Business Platform` | React + Node.js app for small business automation |
 
 ---
