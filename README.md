@@ -46,5 +46,6 @@ As a passionate **Web and Game Developer**, I bridge the worlds of design and lo
 | Project | Description |
 |--------|-------------|
 | `🤖 Optivize - AI Business Platform` | React + Node.js app for small business automation |
+| `Lumina AI` | Swift + Rust + Python Mac App which is an **intelligent productivity partner** that observes how you work, learns your patterns, and proactively suggests automations to save you time. |
 
 ---
