@@ -22,7 +22,7 @@ As a passionate **Web and Game Developer**, I bridge the worlds of design and lo
 ### 🖼️ Frontend  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
-![SwiftUI](https://img.shields.io/badge/Swift-F07F38?style=flat&logo=swift&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F07F38?style=flat&logo=swift&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
 
@@ -45,9 +45,9 @@ As a passionate **Web and Game Developer**, I bridge the worlds of design and lo
 
 ## 🎯 Featured Projects
 
-| Project | Description |
-|--------|-------------|
-| `🤖 Optivize - AI Business Platform` | React + Node.js app for small business automation |
-| `Lumina AI` | Swift + Rust + Python Mac App which is an **intelligent productivity partner** that observes how you work, learns your patterns, and proactively suggests automations to save you time. |
+| Project | Description | Tech Stack |
+|--------|-------------|--------------|
+| <div align="center" ><img src="https://res.cloudinary.com/dm81ieosg/image/upload/v1749732390/optivizelogoicon.png" height="50px" width="auto" /></div> ` Optivize ` | AI Business Platform app for small business automation and AI | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express)
+| <div align="center" ><img src="https://iili.io/BQ0V8Qa.png" height="30px" width="auto" /></div> <div align="center">`Lumina AI` </div>| Mac App which is an **intelligent productivity partner** that observes how you work, learns your patterns, and proactively suggests automations to save you time. | ![Swift](https://img.shields.io/badge/Swift-F07F38?style=flat&logo=swift&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-F07F38?style=flat&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)|
 
 ---
