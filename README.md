@@ -42,6 +42,8 @@ As a passionate **Web and Game Developer**, I bridge the worlds of design and lo
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua)
 
 ---
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+---
 
 ## 🎯 Featured Projects
 
